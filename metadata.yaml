@@ -1,0 +1,27 @@
+_repo: -Colony----or--Free-State----Dependence----or--Just-Connection----Empire----or--Union--_16873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snow, Alpheus Henry
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '6990'
+    url: http://www.gutenberg.org/2009/agents/6990
+description: ''
+gutenberg_issued: '2005-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Colonial question'
+- !lcc 'E660'
+title: '"Colony,"--or "Free State"? "Dependence,"--or "Just Connection"? "Empire,"--or
+  "Union"?'
+url: http://www.gutenberg.org/ebooks/16873
